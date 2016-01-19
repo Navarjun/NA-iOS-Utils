@@ -1,9 +1,7 @@
 //
-//  ElasticButton.swift
-//  Serv2Day
+//  AnimatedButton.swift
 //
 //  Created by Navarjun on 4/23/15.
-//  Copyright (c) 2015 ClickLabs. All rights reserved.
 //
 // Button animates as follows:
 // when user taps it, it shrinks

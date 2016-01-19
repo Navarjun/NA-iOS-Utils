@@ -1,9 +1,7 @@
 //
 //  UIView-ext.swift
-//  Quickie
 //
-//  Created by Navarjun Singh on 04/11/15.
-//  Copyright © 2015 CilckLabs. All rights reserved.
+//  Created by Navarjun on 04/11/15.
 //
 
 import UIKit

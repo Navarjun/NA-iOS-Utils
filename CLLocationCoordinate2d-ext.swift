@@ -1,9 +1,7 @@
 //
-//  CLLocationCoordinate2d+Methods.swift
-//  CapitalOneCP
+//  CLLocationCoordinate2d-ext.swift
 //
-//  Created by Navarjun Singh on 14/08/15.
-//  Copyright (c) 2015 ClickLabs. All rights reserved.
+//  Created by Navarjun on 14/08/15.
 //
 
 import Foundation

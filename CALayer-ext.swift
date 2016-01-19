@@ -1,9 +1,7 @@
 //
-//  CALayer+IBConfiguration.swift
-//  Serv2Day
+//  CALayer-ext.swift
 //
 //  Created by Navarjun on 4/21/15.
-//  Copyright (c) 2015 ClickLabs. All rights reserved.
 //
 // This extension is used to provide CALayer the functionality of setting it's border color from Storyboard
 // This makes easy for us as we don't have to write "View's code"(to change border color) in "Controller code"

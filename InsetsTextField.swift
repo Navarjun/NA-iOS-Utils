@@ -1,9 +1,7 @@
 //
 //  InsetsTextField.swift
-//  CapitalOneCP
 //
-//  Created by Navarjun Singh on 19/08/15.
-//  Copyright (c) 2015 ClickLabs. All rights reserved.
+//  Created by Navarjun on 19/08/15.
 //
 
 import UIKit
